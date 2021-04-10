@@ -1,3 +1,4 @@
+# Approach: Dynamic Programming
 class Solution(object): # Dynamic programming
     def trap(self, height):
         """
